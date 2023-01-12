@@ -30,15 +30,15 @@ const Menu = () => {
               </Link>
               <Link
                 style={{ textDecoration: "none", color: "#000" }}
-                href="/portfolio"
-              >
-                <p>Portfólio</p>
-              </Link>
-              <Link
-                style={{ textDecoration: "none", color: "#000" }}
                 href="/sobre"
               >
                 <p>Sobre</p>
+              </Link>
+              <Link
+                style={{ textDecoration: "none", color: "#000" }}
+                href="/portfolio"
+              >
+                <p>Portfólio</p>
               </Link>
               <Link
                 style={{ textDecoration: "none", color: "#000" }}
@@ -98,15 +98,15 @@ const Menu = () => {
                     </Link>
                     <Link
                       style={{ textDecoration: "none", color: "#000" }}
-                      href="/portfolio"
-                    >
-                      <p>Portfólio</p>
-                    </Link>
-                    <Link
-                      style={{ textDecoration: "none", color: "#000" }}
                       href="/sobre"
                     >
                       <p>Sobre</p>
+                    </Link>
+                    <Link
+                      style={{ textDecoration: "none", color: "#000" }}
+                      href="/portfolio"
+                    >
+                      <p>Portfólio</p>
                     </Link>
                     <Link
                       style={{ textDecoration: "none", color: "#000" }}
