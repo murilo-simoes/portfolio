@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "img": "https://i.postimg.cc/mgBDhF84/portfolio.png",
+    "title": "Meu Site Pessoal e Portfólio",
+    "text": "Meu site pessoal onde as pessoas podem conhecer mais sobre mim a partir de meus projetos e história. Também é possivel entrar em contato comigo.",
+    "link": "https://github.com/murilo-simoes/portfolio"
+  },
+  {
+    "id": 2,
+    "img": "https://i.postimg.cc/FKnsPCmF/1tostao.png",
+    "title": "1Tostão",
+    "text": "O 1Tostão foi meu projeto de TCC do curso técnico de Informática para Internet que realizei. Ele é uma aplicação de venda de serviços de freelance.",
+    "link": "https://github.com/lchampz/1Tostao-refactor"
+  },
+  {
+    "id": 3,
+    "img": "https://i.postimg.cc/GmXc2g4P/movies.png",
+    "title": "MoviesApp",
+    "text": "Este projeto tem como intuito mostrar os 20 filmes mais falados da atualidade, podendo também pesquisar outros filmes e mostrar detalhes sobre.",
+    "link": "https://github.com/murilo-simoes/movies-app-react"
+  },
+  {
+    "id": 4,
+    "img": "https://i.postimg.cc/8kvPHbYD/tocador.png",
+    "title": "Music Player",
+    "text": "Amo a banda Panic! At The Disco, então criei esse music player para mostrar as minhas musicas preferidas da banda e prestar uma pequena homenagem.",
+    "link": "https://github.com/murilo-simoes/music-player"
+  }
+]

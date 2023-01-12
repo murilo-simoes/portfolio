@@ -9,4 +9,5 @@ module.exports = {
     styledComponents: true,
   },
 };
+
 module.exports = nextConfig;
