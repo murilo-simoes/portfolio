@@ -15,9 +15,10 @@ const Introduction = () => {
             <div>
               <h1>Me chamo Murilo Simões, sou Desenvolvedor Front-End</h1>
               <p>
-                Em 2020, comecei minha caminhada como desenvolvedor em um curso
-                técnico em Informática para Internet, desde então me apaixonei
-                por essa área e não consigo me ver fazendo outra coisa.
+                Em 2020, quando eu ainda tinha 15 anos, comecei minha caminhada
+                como desenvolvedor em um curso técnico de Informática para
+                Internet, desde então me apaixonei por essa área e não consigo
+                me ver fazendo outra coisa.
               </p>
             </div>
           </WrapperText>
