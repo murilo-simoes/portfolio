@@ -42,7 +42,7 @@ export const WrapperText = styled.div`
     color: #838383;
     line-height: 2rem;
     @media screen and (max-width: 650px) {
-      font-size: 0.9rem;
+      font-size: 1rem;
       line-height: 1.5rem;
       margin-top: 2rem;
     }

@@ -76,7 +76,7 @@ export const Wrapper = styled.div`
     color: #838383;
     line-height: 1.8rem;
     @media screen and (max-width: 650px) {
-      font-size: 0.9rem;
+      font-size: 1rem;
     }
   }
 `;
