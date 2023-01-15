@@ -26,7 +26,7 @@ export default function Home() {
         <meta property="og:title" content="Site Pessoal - Murilo Simões" />
         <meta
           property="og:image"
-          content="https://i.postimg.cc/Tw7jYp19/portfolio.png"
+          content="https://i.postimg.cc/VNFGgfsM/Screenshot-1.png"
         />
         <meta
           property="og:description"
@@ -56,7 +56,7 @@ export default function Home() {
         <meta name="twitter:title" content="Site Pessoal - Murilo Simões" />
         <meta
           name="twitter:image"
-          content="https://i.postimg.cc/Tw7jYp19/portfolio.png"
+          content="https://i.postimg.cc/VNFGgfsM/Screenshot-1.png"
         />
 
         <meta name="geo.placename" content="São Paulo" />
