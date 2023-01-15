@@ -12,9 +12,17 @@ const Contacts = () => {
     <>
       <Container>
         <Wrapper>
-          <Link href="https://github.com/murilo-simoes" target="_blank">
+          <Link
+            className="link"
+            href="https://github.com/murilo-simoes"
+            target="_blank"
+          >
             <div className="divIcons">
-              <FontAwesomeIcon className="github" icon={faGithub} />
+              <FontAwesomeIcon
+                style={{ fontSize: "5rem" }}
+                className="github"
+                icon={faGithub}
+              />
               <h1>murilo-simoes</h1>
             </div>
           </Link>

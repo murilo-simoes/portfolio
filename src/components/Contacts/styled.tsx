@@ -21,13 +21,15 @@ export const Wrapper = styled.div`
     margin-left: 0.5rem;
     font-size: 1.1rem;
     color: #4e4b66;
+    text-decoration: none;
   }
   a {
     text-decoration: none;
     color: #4e4b66;
   }
   .github {
-    font-size: 1.6rem;
+    width: 1.7rem;
+    text-decoration: none;
     color: #4e4b66;
   }
   .divIcons {
