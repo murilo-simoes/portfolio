@@ -10,7 +10,7 @@ export const Container = styled.div`
 export const Card = styled.div`
   width: 50%;
   padding-top: 3rem;
-  padding-bottom: 3rem;
+  padding-bottom: 1rem;
   height: 100%;
   border: 1px solid #ababab;
   border-radius: 2rem;

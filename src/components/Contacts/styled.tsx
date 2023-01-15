@@ -27,10 +27,10 @@ export const Wrapper = styled.div`
     text-decoration: none;
     color: #4e4b66;
   }
-  .github {
-    width: 1.7rem;
-    text-decoration: none;
+  .icone {
     color: #4e4b66;
+    font-size: 1.65rem;
+    text-decoration: none;
   }
   .divIcons {
     display: flex;

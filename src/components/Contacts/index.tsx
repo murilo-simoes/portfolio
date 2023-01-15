@@ -18,11 +18,7 @@ const Contacts = () => {
             target="_blank"
           >
             <div className="divIcons">
-              <FontAwesomeIcon
-                style={{ fontSize: "5rem" }}
-                className="github"
-                icon={faGithub}
-              />
+              <FontAwesomeIcon className="icone" icon={faGithub} />
               <h1>murilo-simoes</h1>
             </div>
           </Link>
