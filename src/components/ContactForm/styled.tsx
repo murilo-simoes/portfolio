@@ -25,6 +25,9 @@ export const Card = styled.div`
   @media screen and (max-width: 900px) {
     width: 80%;
   }
+  @media screen and (max-width: 500px) {
+    width: 90%;
+  }
 `;
 
 export const Wrapper = styled.form`

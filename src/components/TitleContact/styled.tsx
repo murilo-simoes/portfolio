@@ -23,6 +23,9 @@ export const Wrapper = styled.div`
     width: 80%;
     height: 10rem;
   }
+  @media screen and (max-width: 500px) {
+    width: 90%;
+  }
 
   h1 {
     font-size: 4.5rem;
@@ -44,10 +47,7 @@ export const Wrapper = styled.div`
       font-size: 1.1rem;
     }
     @media screen and (max-width: 900px) {
-      font-size: 0.9rem;
-    }
-    @media screen and (max-width: 400px) {
-      font-size: 0.8rem;
+      font-size: 1rem;
     }
   }
 `;
