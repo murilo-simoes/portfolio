@@ -55,17 +55,17 @@ const Menu = () => {
           <MobileMenu>
             {show == 1 ? (
               <FontAwesomeIcon
-                style={{ zIndex: "999" }}
+                style={{ zIndex: "999", fontSize: "2rem" }}
                 onClick={() => setShow(0)}
-                className="bars"
+                id="icone"
                 icon={faBarsStaggered}
               />
             ) : (
               <FontAwesomeIcon
-                style={{ zIndex: "999" }}
+                style={{ zIndex: "999", fontSize: "2rem" }}
                 onClick={() => setShow(1)}
-                className="bars"
                 icon={faBars}
+                id="icone"
               />
             )}
 

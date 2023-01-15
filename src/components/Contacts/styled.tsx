@@ -29,6 +29,8 @@ export const Wrapper = styled.div`
   }
   .icone {
     color: #4e4b66;
+    width: 30px;
+
     font-size: 1.65rem;
     text-decoration: none;
   }

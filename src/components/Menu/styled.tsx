@@ -85,7 +85,8 @@ export const MobileMenu = styled.div`
   display: none;
   width: 40%;
 
-  .bars {
+  #icone {
+    width: 30px;
     transition: 850ms;
     font-size: 2rem;
     &:hover {
@@ -115,7 +116,7 @@ export const MobileMenuItems = styled.div`
   .bigDiv {
     margin-top: 2rem;
   }
-  .barsI {
+  #icone {
     display: flex;
     justify-content: flex-end;
     align-items: center;
