@@ -1,7 +1,7 @@
 import Image from "next/image";
 import * as React from "react";
-import tecnologias from "../../../public/imgs/tecnologias.png";
-import { Container, Wrapper } from "./styled";
+import tecnologias from "../../../public/imgs/salve.png";
+import { Container, Wrapper, Img } from "./styled";
 
 const Tecnologias = () => {
   return (
@@ -18,7 +18,10 @@ const Tecnologias = () => {
             </p>
           </div>
           <div className="divImg">
-            <Image className="image" src={tecnologias} alt="Tecnologias" />
+            <Img
+              src={"https://i.postimg.cc/WzyftDJs/zyro-image-2.png"}
+              alt="Tecnologias"
+            />
           </div>
         </Wrapper>
       </Container>

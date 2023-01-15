@@ -8,8 +8,8 @@ export const Container = styled.div`
   margin-bottom: 8rem;
   justify-content: center;
   @media screen and (max-width: 991px) {
-    margin-top: 10rem;
-    margin-bottom: 10rem;
+    margin-top: 16rem;
+    margin-bottom: 16rem;
   }
 `;
 
@@ -37,12 +37,6 @@ export const Wrapper = styled.div`
       justify-content: center;
       width: 90%;
     }
-  }
-
-  .image {
-    object-fit: contain;
-    width: 100%;
-    height: 100%;
   }
 
   .divText {
@@ -79,4 +73,10 @@ export const Wrapper = styled.div`
       font-size: 1rem;
     }
   }
+`;
+
+export const Img = styled.img`
+  object-fit: contain;
+  width: 100%;
+  height: 100%;
 `;
