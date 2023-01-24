@@ -12,7 +12,7 @@ const Banner = () => {
           <h1 className="title">Olá, Eu sou o Murilo</h1>
         </div>
         <div>
-          <h1 className="desc">Desenvolvedor Front-End</h1>
+          <h1 className="desc">Desenvolvedor Web</h1>
         </div>
         <div className="divButton">
           <Link href="/portfolio">
