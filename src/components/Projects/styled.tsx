@@ -64,6 +64,8 @@ export const Wrapper = styled.div`
     color: #000;
     word-spacing: 0.2rem;
     font-style: italic;
+    margin-bottom: 1rem;
+
     @media screen and (max-width: 1030px) {
       font-size: 1.5rem;
     }

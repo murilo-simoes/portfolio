@@ -17,7 +17,7 @@
     "id": 3,
     "img": "https://i.postimg.cc/Jn9JRvwD/banco.png",
     "title": "Aplicação Banco",
-    "text": "Este foi um projeto que criei com o intúito de simular uma aplicação de um banco. Você pode criar sua conta, fazer transferências para outros usuários e ver seu histórico de transferências",
+    "text": "Este foi um projeto que criei com o intúito de simular uma aplicação de um banco. Você pode criar sua conta, fazer transferências para outros usuários e ver seu histórico de transferências.",
     "link": "https://banco-web.vercel.app/"
   },
   {
