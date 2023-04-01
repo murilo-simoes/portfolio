@@ -15,16 +15,16 @@
   },
   {
     "id": 3,
+    "img": "https://i.postimg.cc/3xYyLLwC/todo.png",
+    "title": "ToDo List + PostgreSQL",
+    "text": "Uma simples ToDo list com algo diferente, ela foi feita utilizando Node.Js, Prisma e PostgreSQL. Por ser feita com banco de dados se diferencia das outras.",
+    "link": "https://todo-web-one.vercel.app/"
+  },
+  {
+    "id": 4,
     "img": "https://i.postimg.cc/GmXc2g4P/movies.png",
     "title": "MoviesApp",
     "text": "Este projeto tem como intuito mostrar os 20 filmes mais falados da atualidade, podendo também pesquisar outros filmes e mostrar detalhes sobre.",
     "link": "http://movies-app-react-six.vercel.app/"
-  },
-  {
-    "id": 4,
-    "img": "https://i.postimg.cc/wBr7bJGD/tocador.png",
-    "title": "Music Player",
-    "text": "Amo a banda Panic! At The Disco, então criei esse music player para mostrar as minhas músicas preferidas da banda e prestar uma pequena homenagem.",
-    "link": "https://murilo-simoes.github.io/music-player/"
   }
 ]
