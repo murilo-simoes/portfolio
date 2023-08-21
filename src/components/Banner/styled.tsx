@@ -12,6 +12,10 @@ export const Container = styled.div`
   @media screen and (max-width: 790px) {
     flex-direction: column;
   }
+  
+  @media screen and (min-width: 1920px) {
+    height:100vh;
+  }
 `;
 
 export const Wrapper = styled.div`
