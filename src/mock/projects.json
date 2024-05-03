@@ -1,27 +1,41 @@
 [
   {
     "id": 1,
+    "img": "https://i.postimg.cc/x8QJ8Z4H/imagem-2024-05-03-003147271.png",
+    "title": "Relatório de diagnóstico ESG",
+    "text": "Esse software tem o foco de cadastrar uma empresa e a partir de um questionário vai ser gerado um painel de diagnóstico e analisará o quão alinhada sua empresa está com as normas ESG",
+    "link": "https://github.com/murilo-simoes/dash-esg"
+  },
+  {
+    "id": 2,
+    "img": "https://i.postimg.cc/BnSTMjND/Captura-de-tela-2024-05-03-002448.png",
+    "title": "Aplicação de Compra e Aluguel",
+    "text": "Uma aplicação focada no mobile a qual mostra uma lista de casas e apartamentos para comprar. O objetivo desse projeto era o desafio de fazer o layout responsivo e moderno.",
+    "link": "https://github.com/murilo-simoes/propertiesApp"
+  },
+  {
+    "id": 3,
     "img": "https://i.postimg.cc/Tw7jYp19/portfolio.png",
     "title": "Site Pessoal e Portfólio",
     "text": "Meu site pessoal onde as pessoas podem conhecer mais sobre mim a partir de meus projetos e história. Também é possivel entrar em contato comigo.",
     "link": "https://portfolio-murilo-simoes.vercel.app/"
   },
   {
-    "id": 2,
+    "id": 4,
     "img": "https://i.postimg.cc/FKnsPCmF/1tostao.png",
     "title": "1Tostão",
     "text": "O 1Tostão foi meu projeto de TCC do curso técnico de Informática para Internet que realizei. Ele é uma aplicação de venda de serviços de freelance.",
     "link": "https://1tostao.vercel.app/"
   },
   {
-    "id": 3,
+    "id": 5,
     "img": "https://i.postimg.cc/Jn9JRvwD/banco.png",
     "title": "Aplicação Banco",
     "text": "Este foi um projeto que criei com o intúito de simular uma aplicação de um banco. Você pode criar sua conta, fazer transferências para outros usuários e ver seu histórico de transferências.",
     "link": "https://banco-web.vercel.app/"
   },
   {
-    "id": 4,
+    "id": 6,
     "img": "https://i.postimg.cc/3xYyLLwC/todo.png",
     "title": "ToDo List + PostgreSQL",
     "text": "Uma simples ToDo list com algo diferente, ela foi feita utilizando Node.Js, Prisma e PostgreSQL. Por ser feita com banco de dados se diferencia das outras.",

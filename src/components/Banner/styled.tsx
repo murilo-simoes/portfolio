@@ -2,7 +2,7 @@ import styled from "styled-components";
 
 export const Container = styled.div`
   width: 100%;
-  height: 45rem;
+  height: 100dvh;
 
   display: flex;
   flex-direction: row;
@@ -13,9 +13,7 @@ export const Container = styled.div`
     flex-direction: column;
   }
   
-  @media screen and (min-width: 1920px) {
-    height:100vh;
-  }
+
 `;
 
 export const Wrapper = styled.div`
