@@ -12,9 +12,9 @@ const Tecnologias = () => {
             <h1>Tecnologias</h1>
             <p>
               Essas são algumas das tecnologias que domino e tenho mais
-              afinidade para utilizar. Entre elas, minhas preferidas são o
-              Next.Js e o TypeScript, que também foram as tecnologias que
-              utilizei para desenvolver essa aplicação.
+              afinidade para utilizar. Gosto muito de aprender novas linguagens
+              e adquirir mais conhecimento então não fico limitado a apenas as
+              linguagens que sei atualmente.
             </p>
           </div>
           <div className="divImg">
