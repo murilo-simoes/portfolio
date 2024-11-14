@@ -13,9 +13,8 @@ const Objetivos = () => {
             <p>
               Já realizei muitos projetos grandes que me desafiaram mais e mais
               a melhorar, hoje se tenho muito conhecimento foi por causa de
-              muito treino e dedicação. Nunca trabalhei na área mas estou em
-              busca da minha primeira oportunidade para colocar meu conhecimento
-              a prova.
+              muito treino e dedicação. Possuo 2 anos de experiência como desenvolvedor
+              junior e quero crescer cada vez mais como profissional.
             </p>
           </WrapperText>
           <WrapperImg>
