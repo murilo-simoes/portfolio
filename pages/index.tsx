@@ -12,6 +12,8 @@ export default function Home() {
         <meta name="author" content="Murilo Simões"></meta>
         <meta name="keywords" content="Portfólio" />
 
+        
+
         <link rel="alternate" href="" hrefLang="pt-br" />
         <meta name="robots" content="index, follow"></meta>
 
@@ -21,7 +23,7 @@ export default function Home() {
         ></meta>
         <meta
           property="og:url"
-          content="https://portfolio-murilo-simoes.vercel.app/"
+          content="https://murilosimoes.com.br"
         />
         <meta property="og:title" content="Site Pessoal - Murilo Simões" />
         <meta
@@ -30,13 +32,17 @@ export default function Home() {
         />
         <meta
           property="og:description"
-          content="Site Pessoal - Murilo Simões"
+          content="Desenvolvedor Full Stack - Murilo Simões"
+        />
+        <meta
+          name="og:image"
+          content="https://i.postimg.cc/VNFGgfsM/Screenshot-1.png"
         />
         <meta name="theme-color" content="#fe2813"></meta>
         <meta property="business:contact_data:country_name" content="Brasil" />
         <meta
           property="business:contact_data:website"
-          content="https://portfolio-murilo-simoes.vercel.app/"
+          content="https://murilosimoes.com.br"
         />
         <meta property="business:contact_data:region" content="SP" />
         <meta
