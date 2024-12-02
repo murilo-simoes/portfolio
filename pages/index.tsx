@@ -27,16 +27,12 @@ export default function Home() {
         />
         <meta property="og:title" content="Site Pessoal - Murilo Simões" />
         <meta
-          property="og:image"
-          content="https://i.postimg.cc/VNFGgfsM/Screenshot-1.png"
-        />
-        <meta
           property="og:description"
           content="Desenvolvedor Full Stack - Murilo Simões"
         />
         <meta
           name="og:image"
-          content="https://i.postimg.cc/VNFGgfsM/Screenshot-1.png"
+          content="https://i.postimg.cc/KzdfYCZs/Captura-de-tela-2024-12-02-121611.png"
         />
         <meta name="theme-color" content="#fe2813"></meta>
         <meta property="business:contact_data:country_name" content="Brasil" />
@@ -62,7 +58,7 @@ export default function Home() {
         <meta name="twitter:title" content="Site Pessoal - Murilo Simões" />
         <meta
           name="twitter:image"
-          content="https://i.postimg.cc/VNFGgfsM/Screenshot-1.png"
+          content="https://i.postimg.cc/KzdfYCZs/Captura-de-tela-2024-12-02-121611.png"
         />
 
         <meta name="geo.placename" content="São Paulo" />
