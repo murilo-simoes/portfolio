@@ -20,6 +20,7 @@ const Contacts = () => {
             <div className="divIcons">
               <FontAwesomeIcon className="icone" icon={faGithub} />
               <h1>murilo-simoes</h1>
+              
             </div>
           </Link>
           <Link href="mailto:murilorsimoes@gmail.com">
